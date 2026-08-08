@@ -79,3 +79,8 @@ DeepSeek	https://api.deepseek.com/v1	deepseek-chat
 
 ### 重构前后对比3(《政治的概念》)
 ![原文 vs 白话](images/output3.png)
+
+
+## 📈 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=BenjaminDouglasJohnson/Simp-Read&type=Date)](https://star-history.com/#BenjaminDouglasJohnson/Simp-Read&Date)
