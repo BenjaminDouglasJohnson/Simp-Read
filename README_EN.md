@@ -66,3 +66,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ### Before and after 3(The Concept of Politics)
 ![Original vs Colloquial](images/output3.png)
+
+
+## 📈 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=BenjaminDouglasJohnson/Simp-Read&type=Date)](https://star-history.com/#BenjaminDouglasJohnson/Simp-Read&Date)
