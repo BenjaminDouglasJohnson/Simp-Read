@@ -37,7 +37,7 @@
 
 👉 只需自备 API Key（别忘了可以用阿里和谷歌的免费额度白嫖），即可开启“讲人话”的无痛阅读时代！
 
-## 🚀 **快速开始**：无需配置 Python 环境！直接前往 [👉 Releases 页面](https://github.com/BenjaminDouglasJohnson/Simp-Read/releases/latest) 下载最新版 `SimpRead-v7.8.exe` 开箱即用。
+## 🍧 **快速开始**：无需配置 Python 环境！直接前往 [👉 Releases 页面](https://github.com/BenjaminDouglasJohnson/Simp-Read/releases/latest) 下载最新版 `SimpRead-v7.8.exe` 开箱即用。
 
 ## 🚀 快速上手
 
