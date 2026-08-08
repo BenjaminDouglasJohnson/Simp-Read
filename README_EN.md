@@ -22,6 +22,8 @@
 ### Before and after (Personal Knowledge: Towards a Post-Critical Philosophy)
 ![Original vs Colloquial](images/output1.png)
 
+## 🍧**Quick Start**: No need to configure the Python environment! Just go directly to [👉 Releases ](https://github.com/BenjaminDouglasJohnson/Simp-Read/releases/latest) Download the latest version of `SimpRead-v7.8.exe` and it's ready to use right out of the box.
+
 ## 🚀 Quick Start
 
 ### 1. Prerequisites
