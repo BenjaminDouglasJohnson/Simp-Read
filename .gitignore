@@ -1,0 +1,30 @@
+# Python 编译与运行缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# IDE 与编辑器配置
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# ------------------------------------------
+# 项目特有屏蔽
+# ------------------------------------------
+# 断点续传缓存文件 (代码中生成的 checkpoint.json)
+checkpoint.json
+*.checkpoint.json
+
+# 本地测试用的 EPUB 电子书
+*.epub
+
+# 敏感信息
+config.json
+.env
